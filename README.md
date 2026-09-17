@@ -67,16 +67,7 @@
 </tr>
 </table>
 
-**AI & ML**
 
-<table>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/><br><sub>TensorFlow</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/><br><sub>PyTorch</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55" alt="Keras"/><br><sub>Keras</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" height="55" alt="scikit-learn"/><br><sub>scikit-learn</sub></td>
-</tr>
-</table>
 
 **Data Science**
 
@@ -106,9 +97,7 @@
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/><br><sub>VS Code</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/><br><sub>Jupyter</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br><sub>Git</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br><sub>GitHub</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/><br><sub>Figma</sub></td>
 </tr>
 </table>
 
